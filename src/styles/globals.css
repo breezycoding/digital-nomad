@@ -1,0 +1,22 @@
+:root {
+  --border-dark-black: #393e46;
+  --border-dark-green: #6d9886;
+
+  --outer-bg-color: #f7f7f7;
+}
+
+@font-face {
+  font-family: "Chicago";
+  src: url("../../public/font/chicago/chicago.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html,
+body {
+  font-family: "Chicago", sans-serif;
+}

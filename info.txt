@@ -1,0 +1,14 @@
+color combination
+border and font
+dark
+    #393E46, rgb(57, 62, 70) 
+        desc: almost black
+    #6D9886, rgb(109, 152, 134) = dark
+        desc: dark green
+
+outer background color
+#e1d7c6, rgb(225,215,198)
+
+inner background color
+#F7F7F7, rgb(247, 247, 247)
+    
